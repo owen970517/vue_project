@@ -24,16 +24,6 @@ export default {
   data() {
     return {
       원룸들 : data,
-      products : [
-        '역삼동',
-        '천호동',
-        '마포구'
-      ],
-      prices : [
-        '123',
-        '234',
-        '345'
-      ],
       headers : [
         'Home',
         'Product',
